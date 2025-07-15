@@ -12,3 +12,5 @@ Database: SQLite (using sqlite3 npm module)
 Deployment: Local (runs via node server.js)
 
 OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/810e796f-35b2-451a-af1d-15b0d01df648)
